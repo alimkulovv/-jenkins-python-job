@@ -1,0 +1,2 @@
+print(Yerdaulet)
+print(Abdusalyam)
